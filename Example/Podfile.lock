@@ -1,0 +1,16 @@
+PODS:
+  - MotivationalBook (0.1.0)
+
+DEPENDENCIES:
+  - MotivationalBook (from `../`)
+
+EXTERNAL SOURCES:
+  MotivationalBook:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MotivationalBook: 1231026e06ec1f4d06a8c99fda7c343728c35b70
+
+PODFILE CHECKSUM: 63cb01acb1d6c1282fc517c151367187e4e5c0e6
+
+COCOAPODS: 1.10.1

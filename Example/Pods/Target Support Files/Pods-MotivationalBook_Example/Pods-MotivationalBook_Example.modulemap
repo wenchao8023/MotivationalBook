@@ -1,0 +1,6 @@
+framework module Pods_MotivationalBook_Example {
+  umbrella header "Pods-MotivationalBook_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

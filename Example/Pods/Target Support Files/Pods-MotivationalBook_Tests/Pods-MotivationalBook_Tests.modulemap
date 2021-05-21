@@ -1,0 +1,6 @@
+framework module Pods_MotivationalBook_Tests {
+  umbrella header "Pods-MotivationalBook_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
