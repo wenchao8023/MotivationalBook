@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "MotivationalBookVC.h"
 
 FOUNDATION_EXPORT double MotivationalBookVersionNumber;
 FOUNDATION_EXPORT const unsigned char MotivationalBookVersionString[];
