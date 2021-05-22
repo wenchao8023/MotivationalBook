@@ -6,10 +6,10 @@
 //
 
 #import "Target_BookShopDependency.h"
-#import "ManagerBookVC.h"
+#import "MotivationalBookVC.h"
 
 @implementation Target_BookShopDependency
 - (UIViewController *)Action_createHotBook:(NSDictionary *)params {
-    return [ManagerBookVC new];
+    return [MotivationalBookVC new];
 }
 @end
