@@ -11,6 +11,7 @@
 #endif
 
 #import "MotivationalBookVC.h"
+#import "Target_BookShopDependency.h"
 
 FOUNDATION_EXPORT double MotivationalBookVersionNumber;
 FOUNDATION_EXPORT const unsigned char MotivationalBookVersionString[];
