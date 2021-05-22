@@ -5,22 +5,102 @@
     
     
       
-      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.002619">
+      <testcase classname="fastlane.lanes" name="00: default_platform" time="0.000649">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="1: ensure_git_branch" time="0.101054">
+      <testcase classname="fastlane.lanes" name="01: ensure_git_branch" time="0.06642">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="2: git_pull" time="3.087552">
+      <testcase classname="fastlane.lanes" name="02: git_pull" time="2.794253">
         
       </testcase>
     
       
-      <testcase classname="fastlane.lanes" name="3: version_bump_podspec" time="0.004139">
+      <testcase classname="fastlane.lanes" name="03: version_bump_podspec" time="0.001876">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="04: cocoapods" time="3.43659">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="05: cd /Users/guowenchao/Documents/File-Wealth/File-iOS/15-SourceCode/01-ComponentDemo/Component/ManagerBook" time="0.01557">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="06: ensure_git_branch" time="0.015999">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="07: read_podspec" time="0.868061">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="08: git add . &amp;&amp; git commit -m &quot;tag 0.1.8&quot;" time="0.058877">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="09: git_add" time="0.029015">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="10: git_commit" time="0.055679">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="11: ensure_git_status_clean" time="0.020443">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="12: push_to_git_remote" time="4.399067">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="13: add_git_tag" time="0.030591">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="14: push_git_tags" time="4.056575">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="15: read_podspec" time="0.007811">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="16: git pull" time="1.428627">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="17: mkdir 0.1.8" time="0.008114">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="18: cp /Users/guowenchao/Documents/File-Wealth/File-iOS/15-SourceCode/01-ComponentDemo/Component/ManagerBook/ManagerBook.podspec /Users/guowenchao/.cocoapods/repos/CwenSpec//ManagerBook/0.1.8" time="0.008054">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="19: git add . &amp;&amp; git commit -m &quot;ManagerBook tag 0.1.8&quot; &amp;&amp; git push" time="3.961701">
         
       </testcase>
     
