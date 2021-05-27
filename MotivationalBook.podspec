@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MotivationalBook'
-  s.version          = '0.1.8'
+  s.version          = '0.1.9'
   s.summary          = 'A short description of MotivationalBook.'
   s.static_framework = true
 # This description is used to generate tags and improve search results.
