@@ -8,16 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		022D18EE8C6DED162864F02906C05F26 /* MotivationalBookVC.m in Sources */ = {isa = PBXBuildFile; fileRef = CF5E10A048B0599E6B3426BAE271FBE3 /* MotivationalBookVC.m */; };
-		21444CF9DB0904A571C9364069D3A369 /* Pods-MotivationalBook_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C891C1332E470C3FAC10F67CDE137786 /* Pods-MotivationalBook_Tests-dummy.m */; };
+		21444CF9DB0904A571C9364069D3A369 /* Pods-MotivationalBook_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EE4C037DD9AB712CE13E8B5C6EFD9DDC /* Pods-MotivationalBook_Tests-dummy.m */; };
 		362608C8CFCB06D692F8E9A48C99F318 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		3886BC6D0A9EC9830C3789D447BF4344 /* Pods-MotivationalBook_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 37BEA18D0C3CF3A72403BD8D8031DC11 /* Pods-MotivationalBook_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		395BDD584A1784E56B169251869E2679 /* Pods-MotivationalBook_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F96E98F11FB54CA7F651F58826A506E9 /* Pods-MotivationalBook_Example-dummy.m */; };
+		3886BC6D0A9EC9830C3789D447BF4344 /* Pods-MotivationalBook_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 852F0C437C84793C7BFFD85E622D0309 /* Pods-MotivationalBook_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		395BDD584A1784E56B169251869E2679 /* Pods-MotivationalBook_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CA4550B85B80F77DD42B6E98186E588B /* Pods-MotivationalBook_Example-dummy.m */; };
 		4FBD832D097D114676DF7827B5C5BF38 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		95556A9F156C8EAD4D9730EA4C2201FE /* MotivationalBookVC.h in Headers */ = {isa = PBXBuildFile; fileRef = FE0BD8941FE9B306662DB80D24C2BF87 /* MotivationalBookVC.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A2782B858D9F8E2A11E0FE417A85F272 /* MotivationalBook-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 75F8FD0ACC520343CBD4208CA282E9FB /* MotivationalBook-dummy.m */; };
 		B30A3403F9EDF8F355CF25176DC28FB0 /* Target_BookShopDependency.h in Headers */ = {isa = PBXBuildFile; fileRef = D39FD727C2673BD8CCA39FCA3901DF35 /* Target_BookShopDependency.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D4608F3F821B04513DE3DC02F047EA31 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		E91E212CEA24F547336457D9546F4FB4 /* Pods-MotivationalBook_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F36A4A3749D17482ACCB7960997852F1 /* Pods-MotivationalBook_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E91E212CEA24F547336457D9546F4FB4 /* Pods-MotivationalBook_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2B3F237DA02ECE6D515198F73F86522B /* Pods-MotivationalBook_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EF825D88ED8005D2EAD105311BA43E57 /* MotivationalBook-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A1FE08479B9B3266616FA64E36A6B9C1 /* MotivationalBook-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F0A62E174BD66D86FE7AF48319E06636 /* Target_BookShopDependency.m in Sources */ = {isa = PBXBuildFile; fileRef = 7836B0EE5FD1835377F465C949FD719E /* Target_BookShopDependency.m */; };
 /* End PBXBuildFile section */
@@ -40,41 +40,40 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		04750D8B4333F5B14A2FC22636C75C4D /* Pods-MotivationalBook_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MotivationalBook_Tests.modulemap"; sourceTree = "<group>"; };
-		06C0B7EED8F38C062CC2DB09338D1E68 /* Pods-MotivationalBook_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MotivationalBook_Tests-Info.plist"; sourceTree = "<group>"; };
+		0BBC945C3B2A1350A72762CF4582ECC8 /* Pods-MotivationalBook_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MotivationalBook_Example.release.xcconfig"; sourceTree = "<group>"; };
+		108E7B4D806009C6BEE8185EB0FECB0C /* Pods-MotivationalBook_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MotivationalBook_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		10D77D3E7C749B8832CA620BDDB7D275 /* Pods-MotivationalBook_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MotivationalBook_Tests.modulemap"; sourceTree = "<group>"; };
+		2395CB6D585D226F87F3640B057634D4 /* Pods-MotivationalBook_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MotivationalBook_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		2B3F237DA02ECE6D515198F73F86522B /* Pods-MotivationalBook_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MotivationalBook_Tests-umbrella.h"; sourceTree = "<group>"; };
 		2BB482EB18B29B48BDE1825908F2CA6F /* MotivationalBook.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MotivationalBook.release.xcconfig; sourceTree = "<group>"; };
 		2C89D3FA30333E46050DAA605F6DC7F5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		2CBFB8A1EF67A4D0F25F20B55CC242DA /* Pods-MotivationalBook_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MotivationalBook_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		37BEA18D0C3CF3A72403BD8D8031DC11 /* Pods-MotivationalBook_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MotivationalBook_Example-umbrella.h"; sourceTree = "<group>"; };
-		52F8474F083A9B67180B9C505FA00E59 /* Pods-MotivationalBook_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MotivationalBook_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		5A2ABF5724FCA89BC62F533A0FAFBFF2 /* Pods-MotivationalBook_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MotivationalBook_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		5CFA46FE8F7CDD22FF0DE6B3D31F8457 /* Pods-MotivationalBook_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MotivationalBook_Example-frameworks.sh"; sourceTree = "<group>"; };
-		6B8A7C948AB99595F04E34D4F37C7AE5 /* Pods-MotivationalBook_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MotivationalBook_Example.modulemap"; sourceTree = "<group>"; };
+		3D2915F21C4390DDE953091C8E18C392 /* Pods-MotivationalBook_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MotivationalBook_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		3F0CC741DEC3D033B32C37F836A30B71 /* Pods-MotivationalBook_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MotivationalBook_Example.modulemap"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		730B379032E5B9DB8DC71EF112F8A6C4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		75F8FD0ACC520343CBD4208CA282E9FB /* MotivationalBook-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MotivationalBook-dummy.m"; sourceTree = "<group>"; };
 		7836B0EE5FD1835377F465C949FD719E /* Target_BookShopDependency.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = Target_BookShopDependency.m; path = MotivationalBook/Classes/Target_BookShopDependency.m; sourceTree = "<group>"; };
-		92ED843EDB7EA075BAA2E72CC216C473 /* Pods-MotivationalBook_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MotivationalBook_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		94A1A9D9C051889C9E13577338B02ECF /* Pods-MotivationalBook_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MotivationalBook_Example-Info.plist"; sourceTree = "<group>"; };
+		852F0C437C84793C7BFFD85E622D0309 /* Pods-MotivationalBook_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MotivationalBook_Example-umbrella.h"; sourceTree = "<group>"; };
+		91ECA1F1054236FA46BD477E8E409297 /* Pods-MotivationalBook_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MotivationalBook_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		9B94A9475C9CBCD4C13607821BA5B687 /* Pods_MotivationalBook_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MotivationalBook_Tests.framework; path = "Pods-MotivationalBook_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A1FE08479B9B3266616FA64E36A6B9C1 /* MotivationalBook-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MotivationalBook-umbrella.h"; sourceTree = "<group>"; };
 		A59B7CD172E3A5359F1222AE31DEFCA3 /* MotivationalBook.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MotivationalBook.framework; path = MotivationalBook.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B22EFA5783EE653CA3DD86C9ECCE3803 /* Pods-MotivationalBook_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MotivationalBook_Example.release.xcconfig"; sourceTree = "<group>"; };
+		AC04C2CCA863B22A9CDE38377049D72B /* Pods-MotivationalBook_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MotivationalBook_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		B4E0080205A04E77DE4C1E8F7BF57901 /* MotivationalBook.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MotivationalBook.debug.xcconfig; sourceTree = "<group>"; };
 		BD9BD12F05D7AFF147CF5F7E04311817 /* MotivationalBook-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MotivationalBook-Info.plist"; sourceTree = "<group>"; };
-		C62E33783DFC6F3262F9459F2785AF83 /* Pods-MotivationalBook_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MotivationalBook_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		C891C1332E470C3FAC10F67CDE137786 /* Pods-MotivationalBook_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MotivationalBook_Tests-dummy.m"; sourceTree = "<group>"; };
+		C76C9C48627BCCDA4E7F9E6E521CAD72 /* Pods-MotivationalBook_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MotivationalBook_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		CA4550B85B80F77DD42B6E98186E588B /* Pods-MotivationalBook_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MotivationalBook_Example-dummy.m"; sourceTree = "<group>"; };
 		CF5E10A048B0599E6B3426BAE271FBE3 /* MotivationalBookVC.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MotivationalBookVC.m; path = MotivationalBook/Classes/MotivationalBookVC.m; sourceTree = "<group>"; };
 		D2042827F490DE40DC5E6C56775EC9A3 /* MotivationalBook.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MotivationalBook.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		D374FEDF203AB507D1ED6B44FCAA2DFA /* Pods-MotivationalBook_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MotivationalBook_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D39FD727C2673BD8CCA39FCA3901DF35 /* Target_BookShopDependency.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Target_BookShopDependency.h; path = MotivationalBook/Classes/Target_BookShopDependency.h; sourceTree = "<group>"; };
+		D64CD6C6B7CC85AFEEC8E31754BF0AE7 /* Pods-MotivationalBook_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MotivationalBook_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		DD0756393DC6D4AB0C42A73B7F9AC18F /* Pods_MotivationalBook_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MotivationalBook_Example.framework; path = "Pods-MotivationalBook_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E42DF0729D724D2F9BC576F79E6183BB /* MotivationalBook-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MotivationalBook-prefix.pch"; sourceTree = "<group>"; };
-		F36A4A3749D17482ACCB7960997852F1 /* Pods-MotivationalBook_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MotivationalBook_Tests-umbrella.h"; sourceTree = "<group>"; };
+		E4B8883DC40F166653E374AF436955C2 /* Pods-MotivationalBook_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MotivationalBook_Example-Info.plist"; sourceTree = "<group>"; };
+		EE4C037DD9AB712CE13E8B5C6EFD9DDC /* Pods-MotivationalBook_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MotivationalBook_Tests-dummy.m"; sourceTree = "<group>"; };
+		F3B30CBE61992B38ACE1FCE9BBD268C1 /* Pods-MotivationalBook_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MotivationalBook_Tests-Info.plist"; sourceTree = "<group>"; };
 		F8880E63E1941237FAECCA1B2A9C79F8 /* MotivationalBook.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MotivationalBook.modulemap; sourceTree = "<group>"; };
-		F8C4EB17219ED479588CB55E920E2C95 /* Pods-MotivationalBook_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MotivationalBook_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		F96E98F11FB54CA7F651F58826A506E9 /* Pods-MotivationalBook_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MotivationalBook_Example-dummy.m"; sourceTree = "<group>"; };
 		FE0BD8941FE9B306662DB80D24C2BF87 /* MotivationalBookVC.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MotivationalBookVC.h; path = MotivationalBook/Classes/MotivationalBookVC.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -106,6 +105,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		06C7F770C6DFF5CDD25E0FA69159A5D0 /* Pods-MotivationalBook_Example */ = {
+			isa = PBXGroup;
+			children = (
+				3F0CC741DEC3D033B32C37F836A30B71 /* Pods-MotivationalBook_Example.modulemap */,
+				3D2915F21C4390DDE953091C8E18C392 /* Pods-MotivationalBook_Example-acknowledgements.markdown */,
+				D64CD6C6B7CC85AFEEC8E31754BF0AE7 /* Pods-MotivationalBook_Example-acknowledgements.plist */,
+				CA4550B85B80F77DD42B6E98186E588B /* Pods-MotivationalBook_Example-dummy.m */,
+				E4B8883DC40F166653E374AF436955C2 /* Pods-MotivationalBook_Example-Info.plist */,
+				852F0C437C84793C7BFFD85E622D0309 /* Pods-MotivationalBook_Example-umbrella.h */,
+				108E7B4D806009C6BEE8185EB0FECB0C /* Pods-MotivationalBook_Example.debug.xcconfig */,
+				0BBC945C3B2A1350A72762CF4582ECC8 /* Pods-MotivationalBook_Example.release.xcconfig */,
+			);
+			name = "Pods-MotivationalBook_Example";
+			path = "Target Support Files/Pods-MotivationalBook_Example";
+			sourceTree = "<group>";
+		};
 		192B6D22411684BD38325CE6730FA4EC /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -121,11 +136,11 @@
 			path = "Example/Pods/Target Support Files/MotivationalBook";
 			sourceTree = "<group>";
 		};
-		214DC7FECA3EAED8FC5CE3694A8634AA /* Targets Support Files */ = {
+		3C315EEDBF388C1543F038EFA2664E08 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				A0571743D849EECBC25A3744E7918EA3 /* Pods-MotivationalBook_Example */,
-				6E5F1A6929E9D11A7766EC18800AF47A /* Pods-MotivationalBook_Tests */,
+				06C7F770C6DFF5CDD25E0FA69159A5D0 /* Pods-MotivationalBook_Example */,
+				A135D031E142F4AB2888D191063CA3BB /* Pods-MotivationalBook_Tests */,
 			);
 			name = "Targets Support Files";
 			sourceTree = "<group>";
@@ -162,37 +177,20 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6E5F1A6929E9D11A7766EC18800AF47A /* Pods-MotivationalBook_Tests */ = {
+		A135D031E142F4AB2888D191063CA3BB /* Pods-MotivationalBook_Tests */ = {
 			isa = PBXGroup;
 			children = (
-				04750D8B4333F5B14A2FC22636C75C4D /* Pods-MotivationalBook_Tests.modulemap */,
-				52F8474F083A9B67180B9C505FA00E59 /* Pods-MotivationalBook_Tests-acknowledgements.markdown */,
-				F8C4EB17219ED479588CB55E920E2C95 /* Pods-MotivationalBook_Tests-acknowledgements.plist */,
-				C891C1332E470C3FAC10F67CDE137786 /* Pods-MotivationalBook_Tests-dummy.m */,
-				06C0B7EED8F38C062CC2DB09338D1E68 /* Pods-MotivationalBook_Tests-Info.plist */,
-				F36A4A3749D17482ACCB7960997852F1 /* Pods-MotivationalBook_Tests-umbrella.h */,
-				5A2ABF5724FCA89BC62F533A0FAFBFF2 /* Pods-MotivationalBook_Tests.debug.xcconfig */,
-				C62E33783DFC6F3262F9459F2785AF83 /* Pods-MotivationalBook_Tests.release.xcconfig */,
+				10D77D3E7C749B8832CA620BDDB7D275 /* Pods-MotivationalBook_Tests.modulemap */,
+				C76C9C48627BCCDA4E7F9E6E521CAD72 /* Pods-MotivationalBook_Tests-acknowledgements.markdown */,
+				AC04C2CCA863B22A9CDE38377049D72B /* Pods-MotivationalBook_Tests-acknowledgements.plist */,
+				EE4C037DD9AB712CE13E8B5C6EFD9DDC /* Pods-MotivationalBook_Tests-dummy.m */,
+				F3B30CBE61992B38ACE1FCE9BBD268C1 /* Pods-MotivationalBook_Tests-Info.plist */,
+				2B3F237DA02ECE6D515198F73F86522B /* Pods-MotivationalBook_Tests-umbrella.h */,
+				2395CB6D585D226F87F3640B057634D4 /* Pods-MotivationalBook_Tests.debug.xcconfig */,
+				91ECA1F1054236FA46BD477E8E409297 /* Pods-MotivationalBook_Tests.release.xcconfig */,
 			);
 			name = "Pods-MotivationalBook_Tests";
 			path = "Target Support Files/Pods-MotivationalBook_Tests";
-			sourceTree = "<group>";
-		};
-		A0571743D849EECBC25A3744E7918EA3 /* Pods-MotivationalBook_Example */ = {
-			isa = PBXGroup;
-			children = (
-				6B8A7C948AB99595F04E34D4F37C7AE5 /* Pods-MotivationalBook_Example.modulemap */,
-				D374FEDF203AB507D1ED6B44FCAA2DFA /* Pods-MotivationalBook_Example-acknowledgements.markdown */,
-				2CBFB8A1EF67A4D0F25F20B55CC242DA /* Pods-MotivationalBook_Example-acknowledgements.plist */,
-				F96E98F11FB54CA7F651F58826A506E9 /* Pods-MotivationalBook_Example-dummy.m */,
-				5CFA46FE8F7CDD22FF0DE6B3D31F8457 /* Pods-MotivationalBook_Example-frameworks.sh */,
-				94A1A9D9C051889C9E13577338B02ECF /* Pods-MotivationalBook_Example-Info.plist */,
-				37BEA18D0C3CF3A72403BD8D8031DC11 /* Pods-MotivationalBook_Example-umbrella.h */,
-				92ED843EDB7EA075BAA2E72CC216C473 /* Pods-MotivationalBook_Example.debug.xcconfig */,
-				B22EFA5783EE653CA3DD86C9ECCE3803 /* Pods-MotivationalBook_Example.release.xcconfig */,
-			);
-			name = "Pods-MotivationalBook_Example";
-			path = "Target Support Files/Pods-MotivationalBook_Example";
 			sourceTree = "<group>";
 		};
 		B83693A2C3C70C3CBC0552132A456A1C /* Development Pods */ = {
@@ -220,7 +218,7 @@
 				B83693A2C3C70C3CBC0552132A456A1C /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				6281C17DDD03D68F8E48FDA934296E33 /* Products */,
-				214DC7FECA3EAED8FC5CE3694A8634AA /* Targets Support Files */,
+				3C315EEDBF388C1543F038EFA2664E08 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -484,9 +482,40 @@
 			};
 			name = Debug;
 		};
+		699680D1F1B42AFF874C952FD6C12BCE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B4E0080205A04E77DE4C1E8F7BF57901 /* MotivationalBook.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/MotivationalBook/MotivationalBook-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MotivationalBook/MotivationalBook-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/MotivationalBook/MotivationalBook.modulemap";
+				PRODUCT_MODULE_NAME = MotivationalBook;
+				PRODUCT_NAME = MotivationalBook;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		69E1D7A9CB9B10FEA7A89E0334CD8265 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5A2ABF5724FCA89BC62F533A0FAFBFF2 /* Pods-MotivationalBook_Tests.debug.xcconfig */;
+			baseConfigurationReference = 2395CB6D585D226F87F3640B057634D4 /* Pods-MotivationalBook_Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -516,40 +545,9 @@
 			};
 			name = Debug;
 		};
-		80AE50A26F883AEBCFF5CE50C65C8951 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2BB482EB18B29B48BDE1825908F2CA6F /* MotivationalBook.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MotivationalBook/MotivationalBook-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MotivationalBook/MotivationalBook-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/MotivationalBook/MotivationalBook.modulemap";
-				PRODUCT_MODULE_NAME = MotivationalBook;
-				PRODUCT_NAME = MotivationalBook;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		886F6EE81A8ED45C2652CBBE2477D58D /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B22EFA5783EE653CA3DD86C9ECCE3803 /* Pods-MotivationalBook_Example.release.xcconfig */;
+			baseConfigurationReference = 0BBC945C3B2A1350A72762CF4582ECC8 /* Pods-MotivationalBook_Example.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -582,7 +580,7 @@
 		};
 		92DE897A48C686C461866FFE1C986711 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 92ED843EDB7EA075BAA2E72CC216C473 /* Pods-MotivationalBook_Example.debug.xcconfig */;
+			baseConfigurationReference = 108E7B4D806009C6BEE8185EB0FECB0C /* Pods-MotivationalBook_Example.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -674,9 +672,9 @@
 			};
 			name = Release;
 		};
-		D6765AEC1FA76EA7827EB1133EB890E9 /* Debug */ = {
+		D215FF8B98A07E4EA661B53C513D9813 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B4E0080205A04E77DE4C1E8F7BF57901 /* MotivationalBook.debug.xcconfig */;
+			baseConfigurationReference = 2BB482EB18B29B48BDE1825908F2CA6F /* MotivationalBook.release.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -691,6 +689,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/MotivationalBook/MotivationalBook.modulemap";
 				PRODUCT_MODULE_NAME = MotivationalBook;
 				PRODUCT_NAME = MotivationalBook;
@@ -699,14 +698,15 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
 		};
 		D79637A8F3A85F9954A0BD2D62B787A9 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C62E33783DFC6F3262F9459F2785AF83 /* Pods-MotivationalBook_Tests.release.xcconfig */;
+			baseConfigurationReference = 91ECA1F1054236FA46BD477E8E409297 /* Pods-MotivationalBook_Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -770,8 +770,8 @@
 		AF10C2E4B4BDE4486A1B189C3BBED746 /* Build configuration list for PBXNativeTarget "MotivationalBook" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D6765AEC1FA76EA7827EB1133EB890E9 /* Debug */,
-				80AE50A26F883AEBCFF5CE50C65C8951 /* Release */,
+				699680D1F1B42AFF874C952FD6C12BCE /* Debug */,
+				D215FF8B98A07E4EA661B53C513D9813 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

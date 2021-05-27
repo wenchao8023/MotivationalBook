@@ -1,5 +1,5 @@
 PODS:
-  - MotivationalBook (0.1.6)
+  - MotivationalBook (0.1.7)
 
 DEPENDENCIES:
   - MotivationalBook (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MotivationalBook: fba5b6c8aad3a6fb4989830afd5d99c44687d5d1
+  MotivationalBook: 9caba2ee7f5d2c13240503d93cbed9a1340a23e4
 
 PODFILE CHECKSUM: 63cb01acb1d6c1282fc517c151367187e4e5c0e6
 
