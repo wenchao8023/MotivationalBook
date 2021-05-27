@@ -37,8 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		03FE8B55BECB50793412AC22 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		151608D1AEF371A0B2E99DF0 /* MotivationalBook.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MotivationalBook.podspec; path = ../MotivationalBook.podspec; sourceTree = "<group>"; };
+		03FE8B55BECB50793412AC22 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		151608D1AEF371A0B2E99DF0 /* MotivationalBook.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MotivationalBook.podspec; path = ../MotivationalBook.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		1B9614D4F58A9EFDE358BB2D /* Pods-MotivationalBook_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MotivationalBook_Example.debug.xcconfig"; path = "Target Support Files/Pods-MotivationalBook_Example/Pods-MotivationalBook_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		3E91F9A54574F4D8D856E8DD /* Pods-MotivationalBook_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MotivationalBook_Tests.debug.xcconfig"; path = "Target Support Files/Pods-MotivationalBook_Tests/Pods-MotivationalBook_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		4C1CE6392C7E8A215FFFA072 /* Pods_MotivationalBook_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MotivationalBook_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -64,7 +64,7 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		BADEDE2B27DA809AE7327628 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		BADEDE2B27DA809AE7327628 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		BF5B2B77B4079467B6FE0D23 /* Pods-MotivationalBook_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MotivationalBook_Tests.release.xcconfig"; path = "Target Support Files/Pods-MotivationalBook_Tests/Pods-MotivationalBook_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		E5D174CF72481A4CECB97332 /* Pods_MotivationalBook_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MotivationalBook_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -193,7 +193,6 @@
 				3E91F9A54574F4D8D856E8DD /* Pods-MotivationalBook_Tests.debug.xcconfig */,
 				BF5B2B77B4079467B6FE0D23 /* Pods-MotivationalBook_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -258,6 +257,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
